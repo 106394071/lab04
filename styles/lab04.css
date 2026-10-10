@@ -74,9 +74,3 @@ body {
     border-left: 3px solid lightblue;
     padding: 5px;
 }
-
-#small-image {
-    background-image: url("../images/mycat_small.jpg");
-    height: 100px;
-    background-size: cover;
-}
